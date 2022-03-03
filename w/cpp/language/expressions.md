@@ -5,4 +5,6 @@ Biểu thức là một dãy các toán hạng và các toán tử chỉ định
 
 Thực hiện một biểu thức có thể cho ra một kết quả nào đó (ví dụ: `2 + 2` cho ra kết quả `4`) và có thể tạo ra các side-effects(?) (ví dụ: thực hiện `std::printf("%d",4)` sẽ in ký tự `'4'` trong đầu ra tiêu chuẩn).
 
-### Chung
+### Tổng quát
+- Hạng mục giá trị (lvalue, rvalue, glvalue, prvalue, xvalue) phân biểu thức bằng các giá trị của chúng.
+- Thứ tự tính toán của các tham số và các subexpression(?)
